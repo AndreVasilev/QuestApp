@@ -1,6 +1,6 @@
-# quest
+# Quest App
 
-Quest App (Sabz)
+Quest App (Sabz idea)
 
 ## Getting Started
 
